@@ -9,7 +9,6 @@ Tindog is a fictional website parodying Tinder, but for dogs. This project showc
 - **Responsive Design:** The website is fully responsive and works well on all devices, including mobile, tablet, and desktop.
 - **Bootstrap Framework:** Utilizes Bootstrap 4 components for layout and styling, ensuring a modern and consistent look.
 - **Animations and Interactivity:** Includes CSS animations and interactive elements to enhance user experience.
-- **Newsletter Subscription:** Users can subscribe to a newsletter by entering their email address.
 - **Social Media Links:** Links to social media profiles for further engagement.
 
 ## Getting Started
