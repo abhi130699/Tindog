@@ -2,7 +2,7 @@
 
 Tindog is a fictional website parodying Tinder, but for dogs. This project showcases a responsive landing page for a fictional mobile app aimed at connecting dogs and their owners with potential matches. It uses HTML, CSS, and Bootstrap framework for the layout.
 
-![Tindog Preview](images/tindog-preview.png)
+
 
 ## Features
 
